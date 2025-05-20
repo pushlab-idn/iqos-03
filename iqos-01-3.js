@@ -2143,7 +2143,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/_2devicebond.png", id:"_2devicebond"},
+		{src:"images/2devicebond.png", id:"_2devicebond"},
 		{src:"images/Alogo.png", id:"Alogo"},
 		{src:"images/blendaiconic.png", id:"blendaiconic"},
 		{src:"images/blendsAlogo.png", id:"blendsAlogo"},
@@ -2163,7 +2163,7 @@ lib.properties = {
 		{src:"images/harga.png", id:"harga"},
 		{src:"images/innovation.png", id:"innovation"},
 		{src:"images/Key_BONDS.png", id:"Key_BONDS"},
-		{src:"images/_new.png", id:"_new"},
+		{src:"images/new.png", id:"_new"},
 		{src:"images/recom.png", id:"recom"},
 		{src:"images/X.png", id:"X"}
 	],
